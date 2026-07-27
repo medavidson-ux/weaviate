@@ -1,0 +1,570 @@
+[
+    {
+        "timestamp": "2026-06-15 07:08:28",
+        "approach_name": "Basic Collection Fetch",
+        "description": "Pulls a raw, un-filtered sample of your data so you can verify that your batch uploader worked, check your properties, and inspect your auto-generated object IDs.",
+        "query_type": "Vector Batch Load Check",
+        "parameters": {
+            "additional": "id",
+            "limit": 2
+        },
+        "results_count": 2,
+        "results_sample": [
+            {
+                "title": "Bonnevillamides, Linear Heptapeptides Isolated from a Great Salt Lake-Derived Streptomyces sp.",
+                "id": "00083969-facc-5ba7-a200-49a065aff97c"
+            },
+            {
+                "title": "The PEDALS stationary cycling intervention and health-related quality of life in children with cerebral palsy: a randomized controlled trial.",
+                "id": "000c3e6d-11cb-5b4e-95bb-a0c11d20906b"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 07:12:46",
+        "approach_name": "Basic Collection Fetch",
+        "description": "Pulls a raw, un-filtered sample of your data so you can verify that your batch uploader worked, check your properties, and inspect your auto-generated object IDs.",
+        "query_type": "Vector Batch Load Check",
+        "parameters": {
+            "additional": "id",
+            "limit": 2
+        },
+        "results_count": 2,
+        "results_sample": [
+            {
+                "title": "Bonnevillamides, Linear Heptapeptides Isolated from a Great Salt Lake-Derived Streptomyces sp.",
+                "id": "00083969-facc-5ba7-a200-49a065aff97c"
+            },
+            {
+                "title": "The PEDALS stationary cycling intervention and health-related quality of life in children with cerebral palsy: a randomized controlled trial.",
+                "id": "000c3e6d-11cb-5b4e-95bb-a0c11d20906b"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 07:13:45",
+        "approach_name": "Basic Collection Fetch",
+        "description": "Pulls a raw, un-filtered sample of your data so you can verify that your batch uploader worked, check your properties, and inspect your auto-generated object IDs.",
+        "query_type": "Vector Batch Load Check",
+        "parameters": {
+            "additional": "id",
+            "limit": 2
+        },
+        "results_count": 2,
+        "results_sample": [
+            {
+                "title": "Bonnevillamides, Linear Heptapeptides Isolated from a Great Salt Lake-Derived Streptomyces sp.",
+                "id": "00083969-facc-5ba7-a200-49a065aff97c"
+            },
+            {
+                "title": "The PEDALS stationary cycling intervention and health-related quality of life in children with cerebral palsy: a randomized controlled trial.",
+                "id": "000c3e6d-11cb-5b4e-95bb-a0c11d20906b"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 07:16:32",
+        "approach_name": "Basic Collection Fetch",
+        "description": "Pulls a raw, un-filtered sample of your data so you can verify that your batch uploader worked, check your properties, and inspect your auto-generated object IDs.",
+        "query_type": "Vector Batch Load Check",
+        "parameters": {
+            "additional": "id",
+            "limit": 2
+        },
+        "results_count": 2,
+        "results_sample": [
+            {
+                "title": "Bonnevillamides, Linear Heptapeptides Isolated from a Great Salt Lake-Derived Streptomyces sp.",
+                "id": "00083969-facc-5ba7-a200-49a065aff97c"
+            },
+            {
+                "title": "The PEDALS stationary cycling intervention and health-related quality of life in children with cerebral palsy: a randomized controlled trial.",
+                "id": "000c3e6d-11cb-5b4e-95bb-a0c11d20906b"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 07:19:21",
+        "approach_name": "Basic Collection Fetch",
+        "description": "Pulls a raw, un-filtered sample of your data so you can verify that your batch uploader worked, check your properties, and inspect your auto-generated object IDs.",
+        "query_type": "Vector Batch Load Check",
+        "parameters": {
+            "additional": "id",
+            "limit": 2
+        },
+        "results_count": 2,
+        "results_sample": [
+            {
+                "title": "Bonnevillamides, Linear Heptapeptides Isolated from a Great Salt Lake-Derived Streptomyces sp.",
+                "id": "00083969-facc-5ba7-a200-49a065aff97c"
+            },
+            {
+                "title": "The PEDALS stationary cycling intervention and health-related quality of life in children with cerebral palsy: a randomized controlled trial.",
+                "id": "000c3e6d-11cb-5b4e-95bb-a0c11d20906b"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 07:42:12",
+        "approach_name": "Semantic Search",
+        "description": "This query uses machine learning to search for documents based on meaning and concept rather than exact keyword matching.",
+        "query_type": "Semantic Search",
+        "parameters": {
+            "additional": "id",
+            "concepts": "Mouth Neoplasms",
+            "limit": 10
+        },
+        "results_count": 10,
+        "results_sample": [
+            {
+                "title": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma.",
+                "id": "a7690f03-66b9-5d17-b765-8c6eb21f99c8"
+            },
+            {
+                "title": "Myoepithelioma of minor salivary gland origin. Light and electron microscopical study.",
+                "id": "72269715-18a6-5d35-943a-a7aadf0d4cdf"
+            },
+            {
+                "title": "Metastatic neuroblastoma in the mandible. Report of a case.",
+                "id": "7b698e89-71e5-58de-970d-b9044314a3f4"
+            },
+            {
+                "title": "Mandibular pseudocarcinomatous hyperplasia.",
+                "id": "5f7b967b-2f69-5ca3-914d-371e924e7988"
+            },
+            {
+                "title": "Angiocentric Centrofacial Lymphoma as a Challenging Diagnosis in an Elderly Man.",
+                "id": "22c459d3-f392-502b-bb1e-9d2cc15922f8"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 07:50:05",
+        "approach_name": "Object-to-Object Similarity Search",
+        "description": "Uses an existing article's UUID vector embedding as a baseline to find the top 10 conceptually similar articles.",
+        "query_type": "Vector NearObject Search",
+        "parameters": {
+            "source_id": "a7690f03-66b9-5d17-b765-8c6eb21f99c8",
+            "limit": 10,
+            "additional": [
+                "distance"
+            ]
+        },
+        "results_count": 10,
+        "results_sample": [
+            {
+                "title": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma.",
+                "id": null
+            },
+            {
+                "title": "Survival patterns for malignant mesothelioma: the SEER experience.",
+                "id": null
+            },
+            {
+                "title": "Extended Pleurectomy and Decortication for Malignant Pleural Mesothelioma Is an Effective and Safe Cytoreductive Surgery in the Elderly.",
+                "id": null
+            },
+            {
+                "title": "Metastatic neuroblastoma in the mandible. Report of a case.",
+                "id": null
+            },
+            {
+                "title": "[Feasability study of screening for malignant lesions in the oral cavity targeting tobacco users].",
+                "id": null
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 07:57:41",
+        "approach_name": "RAG Generative Search",
+        "description": "Finds the closest matching medical case study via vector search and uses an LLM to explain the title into a layperson definition.",
+        "query_type": "RAG Generative Search",
+        "parameters": {
+            "concept_query": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma",
+            "prompt_instruction": "Please explain this article {title} like you would to someone without a medical degree.",
+            "limit": 1
+        },
+        "results_count": 1,
+        "results_sample": [
+            {
+                "title": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma.",
+                "id": null
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 08:13:01",
+        "approach_name": "Grouped RAG Search",
+        "description": "Retrieves the top 3 semantic matches for 'Mouth Neoplasms' and uses an LLM to synthesize them into a single, unified bulleted summary.",
+        "query_type": "Grouped RAG Generative Search",
+        "parameters": {
+            "concept_query": "Mouth Neoplasms",
+            "grouped_task_instruction": "Summarize the key information here in bullet points. Make it understandable to someone without a medical degree.",
+            "limit": 3
+        },
+        "results_count": 3,
+        "results_sample": [
+            {
+                "title": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma.",
+                "id": "No ID"
+            },
+            {
+                "title": "Myoepithelioma of minor salivary gland origin. Light and electron microscopical study.",
+                "id": "No ID"
+            },
+            {
+                "title": "Metastatic neuroblastoma in the mandible. Report of a case.",
+                "id": "No ID"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 10:00:03",
+        "approach_name": "Knowledge Graph SPARQL Search",
+        "description": "Queries a local RDF graph via SPARQL to find and rank articles by the number of matching interconnected MeSH terms.",
+        "query_type": "SPARQL Knowledge Graph Query",
+        "parameters": {
+            "target_mesh_terms": [
+                "http://example.org/mesh/_Mouth_Neoplasms_",
+                "http://example.org/mesh/_Palatal_Neoplasms_",
+                "http://example.org/mesh/_Tongue_Neoplasms_",
+                "http://example.org/mesh/_Lip_Neoplasms_",
+                "http://example.org/mesh/_Leukoplakia__Oral_",
+                "http://example.org/mesh/_Salivary_Gland_Neoplasms_",
+                "http://example.org/mesh/_Gingival_Neoplasms_",
+                "http://example.org/mesh/_Palatal_Neoplasms_",
+                "http://example.org/mesh/_Tongue_Neoplasms_",
+                "http://example.org/mesh/_Lip_Neoplasms_",
+                "http://example.org/mesh/_Leukoplakia__Oral_",
+                "http://example.org/mesh/_Leukoplakia__Hairy_",
+                "http://example.org/mesh/_Leukoplakia__Hairy_",
+                "http://example.org/mesh/_Salivary_Gland_Neoplasms_",
+                "http://example.org/mesh/_Sublingual_Gland_Neoplasms_",
+                "http://example.org/mesh/_Submandibular_Gland_Neoplasms_",
+                "http://example.org/mesh/_Parotid_Neoplasms_",
+                "http://example.org/mesh/_Sublingual_Gland_Neoplasms_",
+                "http://example.org/mesh/_Submandibular_Gland_Neoplasms_",
+                "http://example.org/mesh/_Parotid_Neoplasms_",
+                "http://example.org/mesh/_Gingival_Neoplasms_"
+            ],
+            "limit": 3
+        },
+        "results_count": 3,
+        "results_sample": [
+            {
+                "title": "Myoepithelioma of minor salivary gland origin. Light and electron microscopical study.",
+                "id": "http://example.org/article/Myoepithelioma_of_minor_salivary_gland_origin._Light_and_electron_microscopical_study."
+            },
+            {
+                "title": "NDRG1 deficiency is associated with regional metastasis in oral cancer by inducing epithelial-mesenchymal transition.",
+                "id": "http://example.org/article/NDRG1_deficiency_is_associated_with_regional_metastasis_in_oral_cancer_by_inducing_epithelial-mesenchymal_transition."
+            },
+            {
+                "title": "BX795, a TBK1 inhibitor, exhibits antitumor activity in human oral squamous cell carcinoma through apoptosis induction and mitotic phase arrest.",
+                "id": "http://example.org/article/BX795%2C_a_TBK1_inhibitor%2C_exhibits_antitumor_activity_in_human_oral_squamous_cell_carcinoma_through_apoptosis_induction_and_mitotic_phase_arrest."
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 10:06:27",
+        "approach_name": "Graph Jaccard Similarity",
+        "description": "Finds articles similar to a target resource based on overlapping MeSH term mappings within an RDF graph using Jaccard indices.",
+        "query_type": "Graph Network Jaccard Search",
+        "parameters": {
+            "target_article_title": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma.",
+            "metric_type": "Jaccard Intersection over Union",
+            "limit": 15
+        },
+        "results_count": 15,
+        "results_sample": [
+            {
+                "title": "Graph Entity Match (Jaccard Score: 0.3333)",
+                "id": "http://example.org/article/An_organ-sparing_treatment_using_combined_intra-arterial_chemotherapy_and_radiotherapy_for_muscle-invading_bladder_carcinoma."
+            },
+            {
+                "title": "Graph Entity Match (Jaccard Score: 0.2857)",
+                "id": "http://example.org/article/%5BChronic_dizziness_in_a_pain_patient--pharmacogenomic_identification_of_tramadol_as_cause%5D."
+            },
+            {
+                "title": "Graph Entity Match (Jaccard Score: 0.2857)",
+                "id": "http://example.org/article/National_practice_patterns_and_time_trends_in_androgen_ablation_for_localized_prostate_cancer."
+            },
+            {
+                "title": "Graph Entity Match (Jaccard Score: 0.2857)",
+                "id": "http://example.org/article/Definitive_intensity-modulated_radiation_therapy_for_nasopharyngeal_carcinoma%3A_long-term_outcome_of_a_multicenter_prospective_study."
+            },
+            {
+                "title": "Graph Entity Match (Jaccard Score: 0.2381)",
+                "id": "http://example.org/article/Cardiac_and_pulmonary_doses_and_complication_probabilities_in_standard_and_conformal_tangential_irradiation_in_conservative_management_of_breast_cancer."
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 10:12:31",
+        "approach_name": "Direct LLM Synthesis",
+        "description": "Sends a raw concatenated string of medical articles directly to GPT-4o-mini for layperson summary synthesis.",
+        "query_type": "Standalone ChatCompletion Summary",
+        "parameters": {
+            "model": "gpt-4o-mini",
+            "temperature": 0.3,
+            "max_tokens": 1000,
+            "context_character_length": 4034
+        },
+        "results_count": 1,
+        "results_sample": [
+            {
+                "title": "LLM Generation Summary (gpt-4o-mini)",
+                "id": "char_len_4034"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 10:15:57",
+        "approach_name": "Direct LLM Synthesis",
+        "description": "Sends a raw concatenated string of medical articles directly to GPT-4o-mini for layperson summary synthesis.",
+        "query_type": "Standalone ChatCompletion Summary",
+        "parameters": {
+            "model": "gpt-4o-mini",
+            "temperature": 0.3,
+            "max_tokens": 1000,
+            "context_character_length": 4034
+        },
+        "results_count": 1,
+        "results_sample": [
+            {
+                "title": "LLM Generation Summary (gpt-4o-mini)",
+                "id": "char_len_4034"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-15 10:17:40",
+        "approach_name": "Direct LLM Synthesis",
+        "description": "Sends a raw concatenated string of medical articles directly to GPT-4o-mini for layperson summary synthesis.",
+        "query_type": "Standalone ChatCompletion Summary",
+        "parameters": {
+            "model": "gpt-4o-mini",
+            "temperature": 0.3,
+            "max_tokens": 1000,
+            "context_character_length": 4034
+        },
+        "results_count": 1,
+        "results_sample": [
+            {
+                "title": "LLM Generation Summary (gpt-4o-mini)",
+                "id": "char_len_4034"
+            }
+        ],
+        "generated_text_output": "### Myoepithelioma of Minor Salivary Gland Origin\n- A tumor was found in the gums of a 14-year-old boy and removed for study.\n- The tumor was made up entirely of myoepithelial cells and appeared to be malignant.\n- Light microscopy showed it as a poorly differentiated epithelial tumor, but electron microscopy confirmed its salivary gland origin.\n- This case is notable as it is the only confirmed instance of a myoepithelioma with malignant features.\n- Myoepitheliomas may be related to mixed tumors found in salivary glands.\n### NDRG1 Deficiency and Oral Cancer Metastasis\n- Regional metastasis is a critical factor affecting the prognosis of oral squamous cell carcinoma (OSCC).\n- NDRG1, a gene linked to tumor progression, was studied in 100 OSCC patients over 10 years.\n- Lower levels of NDRG1 were found in patients with metastatic tumors compared to those with localized disease.\n- NDRG1 expression was associated with other markers indicating tumor behavior.\n- Low NDRG1 levels can predict recurrence and metastasis, making it an important prognostic factor.\n- In laboratory models, reduced NDRG1 expression was linked to changes that promote metastasis.\n- Targeting NDRG1 signaling may offer new treatment strategies to prevent cancer spread.\n### BX795 and Oral Squamous Cell Carcinoma\n- BX795 is a TBK1 inhibitor that shows potential anti-cancer effects in oral squamous cell carcinoma (OSCC).\n- The study assessed BX795's effects on various OSCC cell lines.\n- BX795 reduced cancer cell growth while sparing normal oral cells.\n- The compound induced cell death (apoptosis) and caused cells to stop dividing (mitotic phase arrest).\n- BX795 affects cancer cell signaling pathways (Akt and NF-\u03baB) and promotes autophagy.\n- Its anti-cancer effects do not depend on the levels of TBK1 protein in the cells.\n- The findings suggest BX795 could be a promising treatment option for OSCC."
+    },
+    {
+        "timestamp": "2026-06-15 10:27:33",
+        "approach_name": "Direct LLM Synthesis",
+        "description": "Sends a raw concatenated string of medical articles directly to GPT-4o-mini for layperson summary synthesis.",
+        "query_type": "Standalone ChatCompletion Summary",
+        "parameters": {
+            "model": "gpt-4o-mini",
+            "temperature": 0.3,
+            "max_tokens": 1000,
+            "context_character_length": 4034
+        },
+        "results_count": 1,
+        "results_sample": [
+            {
+                "title": "LLM Generation Summary (gpt-4o-mini)",
+                "id": "char_len_4034"
+            }
+        ],
+        "generated_text_output": "### Summary of Key Information\n#### Myoepithelioma of Minor Salivary Gland Origin\n- A tumor was removed from the gums of a 14-year-old boy.\n- The tumor was primarily made up of myoepithelial cells and appeared malignant.\n- Light microscopy showed it as a poorly differentiated epithelial tumor, but electron microscopy confirmed its salivary gland origin.\n- This case is notable as the only confirmed myoepithelioma with malignant features.\n- Myoepitheliomas may be related to mixed tumors found in salivary glands.\n#### NDRG1 Deficiency and Oral Cancer Metastasis\n- Regional metastasis is a critical factor affecting prognosis in oral squamous cell carcinoma (OSCC).\n- NDRG1 gene expression was studied in 100 OSCC patients over a decade.\n- Lower levels of NDRG1 were found in patients with metastatic tumors compared to those with localized disease.\n- NDRG1 expression was linked to other important proteins (MMPs and BCL2) and could predict tumor recurrence and metastasis.\n- NDRG1 was identified as an independent prognostic factor for patient outcomes.\n- In laboratory models, reduced NDRG1 expression was associated with changes that promote metastasis.\n- Targeting NDRG1 signaling may offer new treatment strategies to prevent cancer spread.\n#### BX795 and Its Antitumor Activity in OSCC\n- BX795 is a TBK1 inhibitor that may help treat oral squamous cell carcinoma (OSCC).\n- The study showed BX795 can reduce the growth of OSCC cells while sparing normal oral cells.\n- It induces cancer cell death (apoptosis) and causes cells to stop dividing (mitotic phase arrest).\n- BX795 works by inhibiting certain signaling pathways (Akt and NF-\u03baB) and promoting autophagy in cancer cells.\n- Its effectiveness does not depend on the level of TBK1 protein in the cells.\n- The findings suggest BX795 has potential as a treatment for OSCC and should be further investigated."
+    },
+    {
+        "timestamp": "2026-06-15 10:29:00",
+        "approach_name": "Direct LLM Synthesis",
+        "description": "Sends a raw concatenated string of medical articles directly to GPT-4o-mini for layperson summary synthesis.",
+        "query_type": "Standalone ChatCompletion Summary",
+        "parameters": {
+            "model": "gpt-4o-mini",
+            "temperature": 0.3,
+            "max_tokens": 1000,
+            "context_character_length": 4034
+        },
+        "results_count": 1,
+        "results_sample": [
+            {
+                "title": "LLM Generation Summary (gpt-4o-mini)",
+                "id": "char_len_4034"
+            }
+        ],
+        "generated_text_output": "### Summary of Key Information\n#### Myoepithelioma of Minor Salivary Gland Origin\n- **Case Study**: A tumor was removed from a 14-year-old boy's gum and analyzed.\n- **Tumor Composition**: Made up entirely of myoepithelial cells, indicating it may be malignant.\n- **Microscopy Findings**:\n- Light microscopy suggested a poorly differentiated tumor.\n- Electron microscopy confirmed myoepithelial characteristics, linking it to salivary glands.\n- **Significance**: This is the first confirmed case of myoepithelioma with malignant potential.\n#### NDRG1 Deficiency in Oral Cancer\n- **Focus**: Investigated the role of NDRG1 gene in oral squamous cell carcinoma (OSCC).\n- **Patient Study**: Analyzed 100 OSCC patients over 10 years.\n- **Findings**:\n- Lower NDRG1 levels were linked to metastatic tumors (P = 0.001).\n- NDRG1 expression correlated with other proteins related to cancer progression.\n- Low NDRG1 levels predicted recurrence and metastasis.\n- **Mechanism**: NDRG1 downregulation was associated with changes in cell behavior (epithelial-mesenchymal transition).\n- **Conclusion**: NDRG1 could be a potential target for therapies to prevent cancer spread.\n#### BX795 as a TBK1 Inhibitor in Oral Cancer\n- **Objective**: Examined BX795, a TBK1 inhibitor, for its effects on OSCC cells.\n- **Results**:\n- BX795 reduced the growth of OSCC cells while sparing normal cells.\n- Induced cell death (apoptosis) and caused cell cycle arrest during mitosis.\n- Affected signaling pathways (Akt and NF-\u03baB) and increased autophagy in cancer cells.\n- **Notable Finding**: The effectiveness of BX795 did not depend on TBK1 levels in the cells.\n- **Implication**: BX795 shows promise as a treatment for oral squamous cell carcinoma and warrants further investigation."
+    },
+    {
+        "timestamp": "2026-06-15 23:42:33",
+        "approach_name": "Semantic Vector Search",
+        "description": "Performs a nearText semantic vector search to identify the top 10 articles conceptually closest to 'mouth neoplasms'.",
+        "query_type": "Vector NearText Search",
+        "parameters": {
+            "concept_query": "mouth neoplasms",
+            "limit": 10,
+            "target_collection": "Articles_with_abstracts_and_URIs"
+        },
+        "results_count": 10,
+        "results_sample": [
+            {
+                "title": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma.",
+                "id": "179fa21e-740a-513e-95c0-44ff4c4a0c3f"
+            },
+            {
+                "title": "Mandibular pseudocarcinomatous hyperplasia.",
+                "id": "5b558001-b04d-5100-958c-4248ce020cf2"
+            },
+            {
+                "title": "Angiocentric Centrofacial Lymphoma as a Challenging Diagnosis in an Elderly Man.",
+                "id": "60b1ad4e-5396-5c76-8ced-b2c333012c49"
+            },
+            {
+                "title": "Metastatic neuroblastoma in the mandible. Report of a case.",
+                "id": "b43ba38b-4a5d-5dd1-ab8c-0e72569996b6"
+            },
+            {
+                "title": "[Chondroma adjacent to Meckel's cave mimicking a fifth cranial nerve neurinoma. A case report].",
+                "id": "82770386-a299-51c8-919a-13b2eb3167a2"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-17 08:01:30",
+        "approach_name": "Semantic Vector Search",
+        "description": "Performs a nearText semantic vector search to identify the top 10 articles conceptually closest to 'mouth neoplasms'.",
+        "query_type": "Vector NearText Search",
+        "parameters": {
+            "concept_query": "mouth neoplasms",
+            "limit": 10,
+            "target_collection": "Articles_with_abstracts_and_URIs"
+        },
+        "results_count": 10,
+        "results_sample": [
+            {
+                "title": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma.",
+                "id": "179fa21e-740a-513e-95c0-44ff4c4a0c3f"
+            },
+            {
+                "title": "Mandibular pseudocarcinomatous hyperplasia.",
+                "id": "5b558001-b04d-5100-958c-4248ce020cf2"
+            },
+            {
+                "title": "Angiocentric Centrofacial Lymphoma as a Challenging Diagnosis in an Elderly Man.",
+                "id": "60b1ad4e-5396-5c76-8ced-b2c333012c49"
+            },
+            {
+                "title": "Metastatic neuroblastoma in the mandible. Report of a case.",
+                "id": "b43ba38b-4a5d-5dd1-ab8c-0e72569996b6"
+            },
+            {
+                "title": "[Chondroma adjacent to Meckel's cave mimicking a fifth cranial nerve neurinoma. A case report].",
+                "id": "82770386-a299-51c8-919a-13b2eb3167a2"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-17 08:05:35",
+        "approach_name": "Graph Date Filter",
+        "description": "Filters graph entities by string title matching and explicit publication dates.",
+        "query_type": "SPARQL Temporal Filter",
+        "parameters": {
+            "date_threshold": "2020-01-01",
+            "candidate_count": 1
+        },
+        "results_count": 1,
+        "results_sample": [
+            {
+                "title": "Gingival metastasis as first sign of multiorgan dissemination of epithelioid malignant mesothelioma.",
+                "id": "http://example.org/article/Gingival_metastasis_as_first_sign_of_multiorgan_dissemination_of_epithelioid_malignant_mesothelioma."
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-17 08:09:09",
+        "approach_name": "Vector NearObject Neighborhood",
+        "description": "Retrieves a cluster of 50 documents surrounding a specific existing article UUID using vector proximity coordinates.",
+        "query_type": "Vector NearObject Cluster",
+        "parameters": {
+            "anchor_object_id": "37b695c4-5b80-5f44-a710-e84abb46bc22",
+            "limit": 50,
+            "metric_requested": "Cosine Distance"
+        },
+        "results_count": 0,
+        "results_sample": [
+            {
+                "error": "Collection data was empty or invalid type: <class 'NoneType'>"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-17 08:11:30",
+        "approach_name": "Vector NearObject Neighborhood",
+        "description": "Retrieves a cluster of 50 documents surrounding a verified active article node (0002f1ba-9941-5a38-a32e-d706c5a5787f) using vector proximity coordinates.",
+        "query_type": "Vector NearObject Cluster",
+        "parameters": {
+            "anchor_object_id": "0002f1ba-9941-5a38-a32e-d706c5a5787f",
+            "limit": 50,
+            "metric_requested": "Cosine Distance"
+        },
+        "results_count": 50,
+        "results_sample": [
+            {
+                "title": "Molecular modeling of BAD complex resided in a mitochondrion integrating glycolysis and apoptosis.",
+                "id": "No ID"
+            },
+            {
+                "title": "Rac1 inhibits apoptosis in human lymphoma cells by stimulating Bad phosphorylation on Ser-75.",
+                "id": "No ID"
+            },
+            {
+                "title": "Synergistic induction of apoptosis in human leukemia cells (U937) exposed to bryostatin 1 and the proteasome inhibitor lactacystin involves dysregulation of the PKC/MAPK cascade.",
+                "id": "No ID"
+            },
+            {
+                "title": "Interaction between caspase-8 activation and endoplasmic reticulum stress in glycochenodeoxycholic acid-induced apoptotic HepG2 cells.",
+                "id": "No ID"
+            },
+            {
+                "title": "Synergetic effects of caspase 3 and mu-calpain in XIAP-breakdown upon focal cerebral ischemia.",
+                "id": "No ID"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-06-18 13:51:05",
+        "approach_name": "Vector NearObject Neighborhood",
+        "description": "Retrieves a cluster of 50 documents surrounding a verified active article node (0002f1ba-9941-5a38-a32e-d706c5a5787f) using vector proximity coordinates.",
+        "query_type": "Vector NearObject Cluster",
+        "parameters": {
+            "anchor_object_id": "0002f1ba-9941-5a38-a32e-d706c5a5787f",
+            "limit": 50,
+            "metric_requested": "Cosine Distance"
+        },
+        "results_count": 50,
+        "results_sample": [
+            {
+                "title": "Molecular modeling of BAD complex resided in a mitochondrion integrating glycolysis and apoptosis.",
+                "id": "No ID"
+            },
+            {
+                "title": "Rac1 inhibits apoptosis in human lymphoma cells by stimulating Bad phosphorylation on Ser-75.",
+                "id": "No ID"
+            },
+            {
+                "title": "Synergistic induction of apoptosis in human leukemia cells (U937) exposed to bryostatin 1 and the proteasome inhibitor lactacystin involves dysregulation of the PKC/MAPK cascade.",
+                "id": "No ID"
+            },
+            {
+                "title": "Interaction between caspase-8 activation and endoplasmic reticulum stress in glycochenodeoxycholic acid-induced apoptotic HepG2 cells.",
+                "id": "No ID"
+            },
+            {
+                "title": "Synergetic effects of caspase 3 and mu-calpain in XIAP-breakdown upon focal cerebral ischemia.",
+                "id": "No ID"
+            }
+        ]
+    }
+]
